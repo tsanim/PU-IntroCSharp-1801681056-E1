@@ -1,0 +1,11 @@
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\bin\Debug\netcoreapp2.0\AvarageNumber.deps.json
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\bin\Debug\netcoreapp2.0\AvarageNumber.runtimeconfig.json
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\bin\Debug\netcoreapp2.0\AvarageNumber.runtimeconfig.dev.json
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\bin\Debug\netcoreapp2.0\AvarageNumber.dll
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\bin\Debug\netcoreapp2.0\AvarageNumber.pdb
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\obj\Debug\netcoreapp2.0\AvarageNumber.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\obj\Debug\netcoreapp2.0\AvarageNumber.AssemblyInfoInputs.cache
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\obj\Debug\netcoreapp2.0\AvarageNumber.AssemblyInfo.cs
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\obj\Debug\netcoreapp2.0\AvarageNumber.dll
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\obj\Debug\netcoreapp2.0\AvarageNumber.pdb
+C:\Users\fmi\Desktop\WorkFolderTsM\PU-IntroCSharp-1801681056-E1\ExamOne1801681056\AvarageNumber\obj\Debug\netcoreapp2.0\AvarageNumber.csprojAssemblyReference.cache
